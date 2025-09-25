@@ -1,0 +1,10 @@
+Enter the name of the file to read: sample.txt
+Choose modification type:
+1 - Convert to UPPERCASE
+2 - Convert to lowercase
+3 - Replace 'Python' with 'PY'
+4 - Reverse each line
+Enter your choice (1/2/3/4): 1
+Modified file has been saved as 'modified_sample.txt'
+
+Warm Regards: logical_sam.
