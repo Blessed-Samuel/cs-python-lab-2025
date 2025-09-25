@@ -33,5 +33,5 @@ The libraries used are:
 ## 🚀 How to Run  
 1. Clone this repository:  
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/Blessed-Samuel/cs-python-lab-2025/python_libraries_challenge
    cd python_libraries_challenge
