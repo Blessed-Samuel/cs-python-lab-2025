@@ -46,8 +46,7 @@ Google Pixel → Taking night-sight photos 🌙
 1. Clone this repository:
 
    ```bash
-   git clone <your-repo-link>
-   cd <your-repo-name>
+   git clone https://github.com/Blessed-Samuel/cs-python-lab-2025/Smartphone
+   cd Smartphone
    python phone.py
-
    ```
