@@ -1,7 +1,7 @@
 import os
 from urllib.parse import urlparse
 
-import requests  # make sure this is the real library, not shadowed
+import requests
 
 
 def fetch_image(url, saved_files):
